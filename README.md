@@ -13,8 +13,8 @@
 
 - 💻 &nbsp; Python | Java | C  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🛢 &nbsp; MySQL | Firebase |
+- 🔧 &nbsp; Visual Studio code | PyCharm | Android Studio | Eclipse | Git
 
 <br>
 
