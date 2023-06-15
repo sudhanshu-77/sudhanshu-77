@@ -16,17 +16,7 @@
 - 🛢 &nbsp; MySQL | Firebase |
 - 🔧 &nbsp; Visual Studio code | PyCharm | Android Studio | Eclipse | Git
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=sudhanshu-77&show_icons=true&theme=buefy"
-  media="(prefers-color-scheme: buefy)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=sudhanshu-7&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-7&show_icons=true" />
-</picture>
+
 
 
 
