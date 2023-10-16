@@ -18,8 +18,6 @@
 
 
 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -27,3 +25,13 @@
 &nbsp; <a href="https://www.linkedin.com/in/sudhanshu-tripathi77/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:stripathi9821@.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+
+[![Sudhanshu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sudhanshu-77&&theme=xcode)](https://github.com/sudhanshu-77)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu-77&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sudhanshu-77" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu-77&show_icons=true&locale=en&theme=tokyonight" alt="sudhanshu-77" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-77&&theme=tokyonight" alt="sudhanshu-77" /></p>
+
