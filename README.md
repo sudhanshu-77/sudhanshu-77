@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## <p align="center"> 🤝🏻 Connect with Me 🤝🏻   </p>
 <br/>
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 <br/>
 
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## <p align="center"> 📈 GitHub Stats 📉</p>
 <p align="center">
   <img
