@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m Tech Enthusiast and  Full-stack Developer.
+- 🔭 &nbsp; I’m Tech Enthusiast and  Learning Full-stack Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and computer programming.
 - 🌱 &nbsp; Enthusiast in cloud computing and Artificial Intelligence .
