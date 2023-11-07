@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Java | Python | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React Native 
-- 🛢 &nbsp; MySQL | Express js | Node js | Mongo DB 
+- 🛢 &nbsp; Express js | Node js | Mongo DB 
 - 🔧 &nbsp; Visual Studio code | PyCharm | Android Studio | Eclipse | Git 
 <br/>
 <br/>
