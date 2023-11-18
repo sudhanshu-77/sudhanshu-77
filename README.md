@@ -17,17 +17,6 @@
 - 🛢 &nbsp; Express js | Node js | Mongo DB 
 - 🔧 &nbsp; Visual Studio code | PyCharm | Android Studio | Eclipse | Git 
 <br/>
-
-
-
-###
-
-<h3 align="left">Badges</h3>
-[![An image of @sudhanshu77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu77)](https://holopin.io/@sudhanshu77)
-
-
-###
-
 <br/>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
