@@ -51,5 +51,5 @@
 
 <h3 align="left">Digital Holopin Badges</h3>
 
-[![An image of @jiyaguptacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu77)](https://holopin.io/@sudhanshu77)
+[![An image of @sudhanshu77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu77)](https://holopin.io/@sudhanshu77)
 
