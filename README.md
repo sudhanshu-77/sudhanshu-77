@@ -51,6 +51,6 @@
 <br/>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-## <p align="center"> Digital Holopin Badges </p>
+## <p align="center"> 🎖️ Digital Holopin Badges (HacktoberFest) 🎖️  </p>
 [![An image of @sudhanshu77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu77)](https://holopin.io/@sudhanshu77)
 
