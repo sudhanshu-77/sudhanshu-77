@@ -7,7 +7,7 @@
 - 🔭 &nbsp; I’m Tech Enthusiast and  Learning Full-stack Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and computer programming.
-- 🌱 &nbsp; Enthusiast in cloud computing and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in  DevOps and AI.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
