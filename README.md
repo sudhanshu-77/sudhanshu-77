@@ -65,8 +65,13 @@
     />
 </p>
 <p align="center"> 
-&nbsp; <a href="https://www.linkedin.com/in/sudhanshu-tripathi77/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sudhanshu.tripathi.dev@.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="sudhanshu-tripathi77" target="_blank">
+  <a href="https://www.linkedin.com/in/sudhanshu-tripathi77/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+&nbsp; <a href="https://twitter.com/Sudhanshutwt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </p>
 <br/>
 
