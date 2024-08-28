@@ -99,11 +99,7 @@
   
 	
 [![@sudhanshu77's Holopin board](https://holopin.me/sudhanshu77)](https://holopin.io/@sudhanshu77)  
- <a href= "https://meshery.layer5.io/user/71b01266-77a4-4a53-a2d7-b6b88dbad406?tab=badges">
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-  </a >
-
-
+ 
 	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -117,6 +113,11 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
+
+<a href= "https://meshery.layer5.io/user/71b01266-77a4-4a53-a2d7-b6b88dbad406?tab=badges">
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
 
 
 
