@@ -95,6 +95,8 @@
 
 
 # **Badges**
+
+
 <summary><b> HoloPin Badges :zap: </b></summary><br>
   
 	
@@ -112,7 +114,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
+<!--  --->
 
+## Meshery Layer5
 <a href= "https://meshery.layer5.io/user/71b01266-77a4-4a53-a2d7-b6b88dbad406?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
