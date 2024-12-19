@@ -6,10 +6,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m Tech Enthusiast and a passionate Software Developer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and computer programming.
-- 🌱 &nbsp; Enthusiast in DevOps and AI.
+- 🔭 &nbsp; A dedicated Tech Enthusiast and passionate Software Developer.  
+- 🤔 &nbsp; Continuously exploring cutting-edge technologies and crafting innovative software solutions.  
+- 🎓 &nbsp; Pursuing a degree in Computer Science with a focus on programming excellence.  
+- 🌱 &nbsp; Deeply interested in DevOps practices and Artificial Intelligence advancements.
 
 <hr>
 
