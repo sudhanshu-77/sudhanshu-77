@@ -1,4 +1,5 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+I'm+Sudhanshu+Exploring+Code+%26+Innovation!" align="middle" alt="Hello, I'm Sudhanshu Exploring Code & Innovation! animated typed out">
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!-- font=Operator+Mono&size=35&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sudhanshu+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Sudhanshu Welcome to my Profile! animated typed out"> -->
