@@ -9,6 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science and computer programming.
 - 🌱 &nbsp; Enthusiast in DevOps and AI.
 
+<hr>
 
 ## <h3>⚡ Technologies </h3>
 
@@ -21,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 
 ### FRAMEWORKS, PLATFORMS & LIBRARIES :
@@ -55,7 +56,9 @@
 
 <br/>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+
 ## <p align="center"> 🤝🏻 Connect with Me 🤝🏻   </p>
 <br/>
 <p align="center">
@@ -75,7 +78,9 @@
 </p>
 <br/>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+
 ## <p align="center"> 📈 GitHub Stats 📉</p>
 <p align="center">
   <img
@@ -91,7 +96,9 @@
 </p>
 <br/>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 
 
 # **Badges**
@@ -115,11 +122,16 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
 <!--  --->
+</br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 
 ## Meshery Layer5
 <a href= "https://meshery.layer5.io/user/71b01266-77a4-4a53-a2d7-b6b88dbad406?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
+
+<hr>
 
 
 
