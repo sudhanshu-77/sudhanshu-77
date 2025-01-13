@@ -1,6 +1,9 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+I'm+Sudhanshu+Exploring+Code+%26+Innovation!" align="middle" alt="Hello, I'm Sudhanshu Exploring Code & Innovation! animated typed out">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+<img align='right' src="https://camo.githubusercontent.com/d9f4c4bf2a4261747f02b8d62c0e376bb8718bda576b6fdcebd7b07297daf393/68747470733a2f2f77616c6c7061706572732e636f6d2f696d616765732f68642f7765622d646576656c6f70657261742d776f726b2d696c6c757374726174696f6e2d706e672d3977786e6e627062617476356f32646e2e706e67" width="220">
+
+
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"> -->
 
 <!-- font=Operator+Mono&size=35&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sudhanshu+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Sudhanshu Welcome to my Profile! animated typed out"> -->
 
